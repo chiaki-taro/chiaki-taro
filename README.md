@@ -14,7 +14,7 @@
 # SNS
 
 <p align="left">
-<a href="https://twitter.com/[taro_koroman]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[taro_koroman]" height="30" width="40" /></a>
+<a href="https://twitter.com/[taro_koroman]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=taro_koroman" height="30" width="40" /></a>
 
 
 # My Skill (Programming Languages, Frameworks and Tools)
